@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KKUIComponents_Example' do
+  pod 'KKUIComponents', :path => '../'
+
+  target 'KKUIComponents_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
