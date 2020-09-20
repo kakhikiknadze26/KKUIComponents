@@ -1,0 +1,6 @@
+framework module KKUIComponents {
+  umbrella header "KKUIComponents-umbrella.h"
+
+  export *
+  module * { export * }
+}

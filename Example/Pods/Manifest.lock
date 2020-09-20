@@ -1,0 +1,16 @@
+PODS:
+  - KKUIComponents (1.0.0)
+
+DEPENDENCIES:
+  - KKUIComponents (from `../`)
+
+EXTERNAL SOURCES:
+  KKUIComponents:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KKUIComponents: f70224269f179399c046f5a8d66e82e6320a23ba
+
+PODFILE CHECKSUM: 1d82b44cc36e05ba260ae327585d2d7c96dfeb34
+
+COCOAPODS: 1.9.3
