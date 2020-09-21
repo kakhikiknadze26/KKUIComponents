@@ -11,7 +11,7 @@ Collection of custom UI Components.
 * **RoundedShadowedButton**
 * **RoundedShadowedControl**
 
-![](https://github.com/kakhikiknadze26/KKUIComponents/blob/main/Images/ShadowedButtonSmall.png)
+![](https://github.com/kakhikiknadze26/KKUIComponents/blob/main/Images/shadowedButtonPreview.png?raw=true)
 
 ## Example
 
