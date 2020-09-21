@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '11.0'
   s.source_files = 'KKUIComponents/Classes/**/*'
-  s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'UIKit'
   s.swift_version = '5.0'
 end
