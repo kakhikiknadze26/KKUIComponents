@@ -1,6 +1,5 @@
 # KKUIComponents
 
-[![CI Status](https://img.shields.io/travis/geowarsong/KKUIComponents.svg?style=flat)](https://travis-ci.org/geowarsong/KKUIComponents)
 [![Version](https://img.shields.io/cocoapods/v/KKUIComponents.svg?style=flat)](https://cocoapods.org/pods/KKUIComponents)
 [![License](https://img.shields.io/cocoapods/l/KKUIComponents.svg?style=flat)](https://cocoapods.org/pods/KKUIComponents)
 [![Platform](https://img.shields.io/cocoapods/p/KKUIComponents.svg?style=flat)](https://cocoapods.org/pods/KKUIComponents)

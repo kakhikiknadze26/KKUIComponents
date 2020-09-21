@@ -28,7 +28,6 @@
 		E4E122620CEB5B7838C4B0A58B25E5BE /* RoundedShadowedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D571BA1561ACBD1CCE1CD5E1F2E95165 /* RoundedShadowedButton.swift */; };
 		E7A006C3A1BDBE5BD4CBA32868E4B0AD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52D890BC086331CFA5853025C62B1CD9 /* Foundation.framework */; };
 		ED09F052EB089F42EE7DEA9CE95891AF /* RoundedShadowedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC8FB05C6CEF07BC079A603443C36121 /* RoundedShadowedView.swift */; };
-		F5096B903E8F9E000A652DE23452BDE6 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26B6CA37B768E50FD58363F46414B61E /* ReplaceMe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,7 +54,6 @@
 		1B2EB5BCAD9EEDC95CEBFA64702C9340 /* Pods_KKUIComponents_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KKUIComponents_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		22D27E6A4D93A25FCD0C041E4041CA9E /* KKUIComponents-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KKUIComponents-prefix.pch"; sourceTree = "<group>"; };
 		238BAECA9EC878836648F81A024D5B30 /* Pods-KKUIComponents_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-KKUIComponents_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		26B6CA37B768E50FD58363F46414B61E /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = KKUIComponents/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		27DD35730DADA1B31A0CBA571D13A8A1 /* RoundedShadowedControl.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = RoundedShadowedControl.swift; sourceTree = "<group>"; };
 		343AE56BBC1AF41A35F497BFA6544A10 /* KKUIComponents-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KKUIComponents-umbrella.h"; sourceTree = "<group>"; };
 		34F7AD88FB34922FD18D9169A11BB561 /* KKUIComponents.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = KKUIComponents.debug.xcconfig; sourceTree = "<group>"; };
@@ -242,7 +240,6 @@
 			children = (
 				AA89FC4C2517D5800033EF86 /* Utility */,
 				AA89FC4F2517D5800033EF86 /* Views */,
-				26B6CA37B768E50FD58363F46414B61E /* ReplaceMe.swift */,
 				EB69F775147A728CA5DB38D9F1D9FFAB /* Pod */,
 				BF64F3C7F055CFE50C4A514543CEE974 /* Support Files */,
 				205E524E9EDCD6EE0C69BDB696FD549C /* Utility */,
@@ -459,7 +456,6 @@
 			files = (
 				04F2894C900B23C09CE21903471A6CB5 /* KKUIComponents-dummy.m in Sources */,
 				AA89FC572517D5800033EF86 /* RoundedShadowedControl.swift in Sources */,
-				F5096B903E8F9E000A652DE23452BDE6 /* ReplaceMe.swift in Sources */,
 				AA89FC582517D5800033EF86 /* RoundedShadowedView.swift in Sources */,
 				E4E122620CEB5B7838C4B0A58B25E5BE /* RoundedShadowedButton.swift in Sources */,
 				B5246B13D2DEEB61FA4D99D6D2E87C11 /* RoundedShadowedControl.swift in Sources */,
