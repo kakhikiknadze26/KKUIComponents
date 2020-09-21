@@ -18,10 +18,6 @@ Collection of custom UI Components.
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Installation
-* Download KKUIComponents
-* Drag `KKUIComponents.xcodeproj` into your project directory
-* Add `KKUIComponents.framework` in `Frameworks, Libraries and Embedded Content`
-
 KKUIComponents is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
